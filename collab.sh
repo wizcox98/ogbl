@@ -29,4 +29,4 @@ python -u main.py \
     --walk_length=5 \
     --seed 0 \
     --no-pos-emb \
-    --year 2010 \
+    --year 2010
